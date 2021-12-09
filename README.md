@@ -12,4 +12,4 @@ Then LSH has been used, where bucket numbers are created by "summing" the rows o
 Accordlingy, the Jaccard Similirity between the candidate pairs is calculated for a certain threshold. 
 Then the false negatives, false positives, true positives and true negatives are determined to calculate recall and precision. 
 When these are calculated, the F-1 measure will be calculated and the F-1 measure and recall and precision will be plotted against the fraction for LSH and the complete method. 
-I have programmed this with Sweder Steensma. 
+I have programmed this with Sweder Steensma (Sweder, automatic waddle). 
